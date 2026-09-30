@@ -14,25 +14,17 @@ I built this project to understand how a real-world full-stack application works
 
 The home page allows users to explore restaurants and start looking for food.
 
-![Home Page](docs/screenshots/home-preview.png)
-
 ### 🍕 Restaurant & Food Menu
 
 Users can open a restaurant and browse the available food items.
-
-![Restaurant Menu](docs/screenshots/restaurant-preview.png)
 
 ### 🛒 Cart & Checkout
 
 After selecting food, users can review their cart and continue with the ordering process.
 
-![Cart and Checkout](docs/screenshots/cart-preview.png)
-
 ### 👨‍💼 Admin / Restaurant Dashboard
 
 Restaurant and admin users can manage restaurant information, food items, categories and orders.
-
-![Admin Dashboard](docs/screenshots/admin-preview.png)
 
 ---
 
